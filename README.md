@@ -1,6 +1,6 @@
 # Hallucinate
 
-Infinity image feed based on a single prompt to a language model and sdxl turbo.
+Infinity image feed based on a single prompt. The prompt variations are generated using a language model. Images produced by SDXL turbo.
 
 ## Screenshot
 
